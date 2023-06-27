@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marco
+<h1>Hi, I'm Marco, an IT Support Engineer
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
